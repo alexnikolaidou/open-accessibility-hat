@@ -300,7 +300,9 @@ open-accessibility-hat/
 - Ανακοίνωση ΠΣΠΘ για ACSTAC και e-Hackathon: [1ο Βραβείο για το ΠΣΠΘ στο ACSTAC και στο e-Hackathon](https://pspth.edu.gr/1o-vravio-gia-to-pspth-sto-diethnes-synedrio-acstac-ke-sto-e-iackathon-tou-anatolia/)
 * Τρισδιάστατο σχέδιο θήκης micro:bit στο Tinkercad: [3D Case Design – Tinkercad](https://www.tinkercad.com/things/jCWyBROtP6X-case-two-piece-v3?sharecode=5iCBGAdHpn9GTyF7VhmM9Bhds8CopXfwKzDgJHV_L7E)
 
-- Λογική κώδικα micro:bit για ανίχνευση εμποδίων: [Obstacle Detection Logic](software/microbit_code/obstacle_detection_logic.md)
+-  κώδικας micro:bit για ανίχνευση εμποδίων: [Obstacle Detection Logic](software/microbit_code/obstacle_detection_logic.md)
+
+- Τεκμηρίωση μοντέλου Machine Learning: [Teachable Machine Model](software/ai_model/teachable_machine_model.md)
 
 ## 21. Συμπέρασμα
 
