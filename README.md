@@ -284,6 +284,12 @@ open-accessibility-hat/
 
 - Αναλυτική τεκμηρίωση έργου: [Open Accessibility Hat – Project Report](open_accessibility_hat_report.pdf)
 
+- Αποθετήριο GitHub έργου: [open-accessibility-hat](https://github.com/alexnikolaidou/open-accessibility-hat)
+
+- Ανακοίνωση ΠΣΠΘ για Bravo Schools: [Συμμετοχή του ΠΣΠΘ στον διαγωνισμό Bravo Schools](https://pspth.edu.gr/symmetochi-tou-pspth-ston-diagonismo-bravo-schools/)
+
+- Ανακοίνωση ΠΣΠΘ για ACSTAC και e-Hackathon: [1ο Βραβείο για το ΠΣΠΘ στο ACSTAC και στο e-Hackathon](https://pspth.edu.gr/1o-vravio-gia-to-pspth-sto-diethnes-synedrio-acstac-ke-sto-e-iackathon-tou-anatolia/)
+
 ## 21. Συμπέρασμα
 
 Το Open Accessibility Hat αποτελεί ένα μαθητικό έργο ανοικτής τεχνολογίας που συνδυάζει STEM, τεχνητή νοημοσύνη και κοινωνική καινοτομία. Μέσα από την κατασκευή, οι μαθητές και οι μαθήτριες διερευνούν ένα πραγματικό πρόβλημα προσβασιμότητας και προτείνουν μια λύση χαμηλού κόστους, η οποία μπορεί να αναπαραχθεί και να βελτιωθεί από άλλες σχολικές κοινότητες.
