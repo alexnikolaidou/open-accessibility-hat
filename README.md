@@ -286,9 +286,14 @@ open-accessibility-hat/
 
 - Αποθετήριο GitHub έργου: [open-accessibility-hat](https://github.com/alexnikolaidou/open-accessibility-hat)
 
-- Ανακοίνωση ΠΣΠΘ για Bravo Schools: [Συμμετοχή του ΠΣΠΘ στον διαγωνισμό Bravo Schools](https://pspth.edu.gr/symmetochi-tou-pspth-ston-diagonismo-bravo-schools/)
+- Παρουσίαση έργου ACSTAC / e-Hackathon: [ACSTAC & e-Hackathon Presentation](acstac_ehackathon_presentation.pptx)
+
+- Παρουσίαση έργου Bravo Schools: [Bravo Schools Presentation](bravo_schools_presentation.pptx)
+Ανακοίνωση ΠΣΠΘ για Bravo Schools: [Συμμετοχή του ΠΣΠΘ στον διαγωνισμό Bravo Schools](https://pspth.edu.gr/symmetochi-tou-pspth-ston-diagonismo-bravo-schools/)
 
 - Ανακοίνωση ΠΣΠΘ για ACSTAC και e-Hackathon: [1ο Βραβείο για το ΠΣΠΘ στο ACSTAC και στο e-Hackathon](https://pspth.edu.gr/1o-vravio-gia-to-pspth-sto-diethnes-synedrio-acstac-ke-sto-e-iackathon-tou-anatolia/)
+* Τρισδιάστατο σχέδιο θήκης micro:bit στο Tinkercad: [3D Case Design – Tinkercad](https://www.tinkercad.com/things/jCWyBROtP6X-case-two-piece-v3?sharecode=5iCBGAdHpn9GTyF7VhmM9Bhds8CopXfwKzDgJHV_L7E)
+
 
 ## 21. Συμπέρασμα
 
